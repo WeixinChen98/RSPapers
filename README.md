@@ -2,7 +2,9 @@
 
 [![wechat](https://img.shields.io/badge/wechat-ML--RSer-blue)](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA4NTUxNTE4Ng==&mid=2247483655&idx=1&sn=5ed421a66f03a31fbab722192b8ccae2&send_time=) [![update](https://img.shields.io/badge/update-weekly-blueviolet)](#must-read-papers-on-recommender-system) [![license](https://img.shields.io/github/license/hongleizhang/RSPapers)](https://github.com/hongleizhang/RSPapers/blob/master/LICENSE)
 
-This repository provides a curated list of papers and tutorials about Recommender Systems (RS) including systematic tutorials, comprehensive surveys, general recommender system, social recommender system, deep learing-based recommender system, cold start problem in recommender system, efficient recommender system, exploration and exploitation problem in recommender system, explainability in recommender system  as well as  click through rate prediction for recommender system, knowledge graph for recommeder system, review based recommender system, conversational recommender system, industrial/practical recommender system and privacy preserving recommender system.
+This repository provides a curated list of papers and tutorials about Recommender Systems (RS) including systematic tutorials, comprehensive surveys, general recommender system, social recommender system, deep learing-based recommender system, cold start problem in recommender system, efficient recommender system, exploration and exploitation problem in recommender system, explainability in recommender system  as well as  click through rate prediction for recommender system, knowledge graph for recommeder system, review based recommender system, conversational recommender system, industrial/practical recommender system, privacy preserving recommender system, large language models for recommender system and agentic recommender system.
+
+- [**New!**] Add the new part of [**Agentic RS**](https://github.com/hongleizhang/RSPapers#agentic-rs).
 
 - [**New!**] Add the new part of [**LLM for RS**](https://github.com/hongleizhang/RSPapers#llm-for-rs).
 
@@ -46,6 +48,8 @@ the user with the recommendations, but also make the user aware why such items a
 [**15-Privacy&Security RS:**](https://github.com/hongleizhang/RSPapers#privacy-in-rs) some papers about privacy preserving and security in recommder systems.
 
 [**16-LLM for RS:**](https://github.com/hongleizhang/RSPapers#llm-for-rs) some papers about large language models in recommder systems.
+
+[**17-Agentic RS:**](https://github.com/hongleizhang/RSPapers#agentic-rs) some papers about LLM-based agents for recommender systems.
 
 ===========================================================================
 
@@ -1165,6 +1169,33 @@ Recommender Systems: An Extensive Review ** ArXiv, 2024.
 * Rong et al. **Poisoning Deep Learning based Recommender Model in Federated Learning Scenarios.** IJCAI, 2022.
 
 * Zhang et al. **LightFR: Lightweight Federated Recommendation with Privacy-preserving Matrix Factorization.** ACM TOIS, 2023.
+
+
+## Agentic RS
+
+* Geng et al. **Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5).** RecSys, 2022.
+
+* Wang et al. **User Behavior Simulation with Large Language Model based Agents.** ACM TOIS, 2025.
+
+* Wang et al. **RecMind: Large Language Model Powered Agent for Recommendation.** NAACL Findings, 2024.
+
+* Huang et al. **Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations.** ACM TOIS, 2025.
+
+* Zhang et al. **On Generative Agents in Recommendation.** SIGIR, 2024.
+
+* Zhang et al. **AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems.** WWW, 2024.
+
+* Wang et al. **MACRec: A Multi-Agent Collaboration Framework for Recommendation.** SIGIR, 2024.
+
+* Shu et al. **RAH! RecSys-Assistant-Human: A Human-Central Recommendation Framework with LLM Agents.** IEEE TCSS, 2024.
+
+* Tang et al. **Interactive Recommendation Agent with Active User Commands.** arXiv, 2025.
+
+* Xu et al. **iAgent: LLM Agent as a Shield between User and Recommender Systems.** ACL Findings, 2025.
+
+* Zhu et al. **LLM-based Conversational Recommendation Agents with Collaborative Verbalized Experience.** EMNLP Findings, 2025.
+
+* Chen et al. **MemRec: Collaborative Memory-Augmented Agentic Recommender System.** arXiv, 2026.
 
 
 ## LLM for RS
